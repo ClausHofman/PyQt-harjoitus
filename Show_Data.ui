@@ -240,12 +240,47 @@
          </attribute>
          <column>
           <property name="text">
-           <string>Column1</string>
+           <string>Column 1</string>
           </property>
          </column>
          <column>
           <property name="text">
-           <string>Column2</string>
+           <string>Column 2</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 3</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 4</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 5</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 6</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 7</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 8</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>Column 9</string>
           </property>
          </column>
         </widget>
@@ -254,9 +289,6 @@
      </widget>
     </item>
    </layout>
-   <zorder>groupBox</zorder>
-   <zorder>widget</zorder>
-   <zorder>groupBox_2</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">

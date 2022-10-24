@@ -6,6 +6,10 @@ notes:
 
 pip install pyqt5 pyqt5-tools
 pip install mysql-connector-python
+pip install pandas
+pip install openpyxl
+
+command to use designer:
 qt5-tools designer
 
 
