@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/suurennuslasi1.ico</file>
+    <file>icons/suurennuslasi3.ico</file>
+  </qresource>
+</RCC>
